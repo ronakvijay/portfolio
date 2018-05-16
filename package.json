@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio app built with React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronakvijay/portfolio.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Ronak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronakvijay/portfolio/issues"
+  },
+  "homepage": "https://github.com/ronakvijay/portfolio#readme"
+}
